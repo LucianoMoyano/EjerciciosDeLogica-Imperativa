@@ -97,3 +97,5 @@ function fibonacci2(num) {
     );
   }
 }
+
+Buenas chicos, para los que realizaron las actividades de la clase de arreglos, les dejo los ejercicios realizados en el archivo!
